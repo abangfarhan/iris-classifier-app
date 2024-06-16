@@ -6,7 +6,7 @@ st.set_page_config(
 )
 st.image('./assets/Image20240525091902.png')
 st.title('Iris Classifier App')
-st.markdown('**Created by Abang Farhan | Batch May 2024**')
+st.markdown('**Created by Abang Farhan | Pacmann ML Process Batch May 2024**')
 st.divider()
 
 st.markdown('Just type the value, and get the result.')
